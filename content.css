@@ -1,24 +1,40 @@
 .page {
-  width:
-  height:
+  width: 20%;
+  height: 30%;
+  background-color: #D3D0CB;
 }
 
 #article_title {
-
+  padding-top: 30px;
+  text-align: center;
+  font-family: 'Anton';
+  color: #461220;
+  font-size: 50;
+  letter-spacing: 5px;
 }
 
 #intro {
-
+  color: #8C2F39;
+  font-family: 'Oswald';
 }
 
 .question{
-
+  font-family: 'Raleway';
+  font-weight: bolder;
+  color: #4C5760;
 }
 
 .answer{
-
+  color: #4C5760;
+  font-family: 'Raleway';
 }
 
 #block_quote {
-
+  color: #8C2F39;
+  text-align: center;
+  font-size: 90;
+  font-family: 'Oswald';
+  border-left: 5px;
+  border-width: 10px;
+  border-color: #4C5760;
 }
